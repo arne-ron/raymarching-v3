@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "position",
+      "targetTime": 4.843711906259488
+    },
+    {
+      "name": "subtraction",
+      "targetTime": 11.912241578234244
+    },
+    {
+      "name": "negativ",
+      "targetTime": 14.70227090102136
+    },
+    {
+      "name": "null",
+      "targetTime": 16.702270901021357
+    },
+    {
+      "name": "positiv",
+      "targetTime": 19.48631781748074
+    }
+  ],
+  "seed": 987899349
+}

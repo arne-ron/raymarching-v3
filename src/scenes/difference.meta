@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "smaller",
+      "targetTime": 3.2750107813173908
+    },
+    {
+      "name": "intersection",
+      "targetTime": 5.695552833634206
+    },
+    {
+      "name": "union",
+      "targetTime": 20.925268411351865
+    },
+    {
+      "name": "difference_1",
+      "targetTime": 22.41868323300177
+    },
+    {
+      "name": "difference_2",
+      "targetTime": 23.41868323300177
+    },
+    {
+      "name": "sceneChange",
+      "targetTime": 26.956942475824086
+    }
+  ],
+  "seed": 4116367742
+}

@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "textPopup",
+      "targetTime": 5.026527187857527
+    },
+    {
+      "name": "sceneChange",
+      "targetTime": 10.261743532545005
+    }
+  ],
+  "seed": 334347157
+}
