@@ -3,6 +3,7 @@ node_modules
 output
 dist
 script_data
+init.command
 
 # Editor directories and files
 .vscode/*
