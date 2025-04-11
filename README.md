@@ -3,9 +3,11 @@ The graphics were created using the [Motion Canvas](https://motioncanvas.io/ "Mo
 
 
 ![The final product](RaymarchingFinalVideo.mp4)
+
 Video: The final product
 
 The [3d_renders](3d_renders) folder contains videos greated with a custom raymarching shader in GODOT.
 
 ![An example of a cube rendered using raymarching](3d_renders/raymarch_v04.mp4)
+
 Video: An example of a cube rendered using raymarching
